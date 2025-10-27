@@ -42,6 +42,9 @@ After a short delay, the display resets to show “Waiting for bus...”
 
 
 💾 Arduino Code
+
+
+
 #include <SPI.h>
 #include <MFRC522.h>
 #include <Wire.h>
